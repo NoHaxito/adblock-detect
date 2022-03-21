@@ -1,1 +1,1 @@
-# "api" repo for `adblock-hunter` in HTML.
+"api" repo for `adblock-hunter` in HTML.
